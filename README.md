@@ -1,0 +1,1 @@
+This is a simple Python command-line program that lets you add, view, and delete tasks. Users interact with a menu to choose options, and input is validated to prevent errors. The program uses functions (add_task, view_tasks, delete_task) to keep the code clean and modular. Tasks are stored in a list and displayed with numbers so users can manage them easily. 
