@@ -11,7 +11,7 @@ def show_menu():
 
 
 def add_task(tasks_list):
-    task = input("Please nter a task: ").strip()
+    task = input("Please enter a task: ").strip()
     if task:
         tasks_list.append(task)
         print("Task added!")
